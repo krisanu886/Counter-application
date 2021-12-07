@@ -1,0 +1,43 @@
+.card-body{
+    background-color: rgb(230, 160, 236);
+    border-radius: 25px;
+    border: 1px solid rgb(108, 206, 28);
+    color: whitesmoke;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 2px 2px 8px 2px yellowgreen;
+}
+.btn{
+    border-radius: 20px;
+    border: none;
+}
+.btn-success:hover{
+    color: rgb(76, 132, 238);
+    background-color: rgb(184, 245, 61);
+    border: 1px solid rgb(122, 50, 50);
+    font-weight: 650;
+}
+.btn-danger:hover{
+    color: rgb(250, 206, 12);
+    background-color: rgba(184, 0, 0, 0.993);
+    border: 1px solid greenyellow;
+    font-weight: 600;
+}
+.btn-secondary:hover{
+    color: rgb(59, 231, 68);
+    background-color: rgb(72, 76, 80);
+    border: 1px solid goldenrod;
+    font-weight: 600;
+}
+#p{
+    margin-top: 40px;
+    color: rgb(231, 143, 10);
+}
+a{
+    color: yellow;
+    font-weight: 600;
+}
+a:hover{
+    color: rgb(168, 248, 7);
+    font-weight: 600;
+}
