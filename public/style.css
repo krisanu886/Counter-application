@@ -6,6 +6,8 @@
     font-style: oblique;
     font-family: Georgia, 'Times New Roman', Times, serif;
     box-shadow: 2px 2px 8px 2px yellowgreen;
+    width: 500px;
+    height: 450px;
 }
 .btn{
     border-radius: 20px;
